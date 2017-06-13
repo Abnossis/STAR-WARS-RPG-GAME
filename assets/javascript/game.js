@@ -20,28 +20,28 @@ function reset() {
 
 	    {
 	        name: 'Luke SkyWalker',
-	        visual: 'assets/images/luke.jpg',
+	        visual: 'assets/images/luke.png',
 	        healthPoints: 160, 
 	        attackPower: 10,
 	        counterAttackPower: 20,
 	    },
 	    {
 	        name: 'Yoda',
-	        visual: 'assets/images/yoda.jpg', 
+	        visual: 'assets/images/Y.png', 
 	        healthPoints: 130,
 	        attackPower: 15,
 	        counterAttackPower: 30,
 	    },
 	    {
 	        name: 'Less Ray',
-	        visual: 'assets/images/lessray.jpg',
+	        visual: 'assets/images/lessray.png',
 	        healthPoints: 180, 
 	        attackPower: 7,
 	        counterAttackPower: 15,
 	    },
 	    {
 	        name: 'Darth Vader',
-	        visual: 'assets/images/D.jpg',
+	        visual: 'assets/images/vader.png',
 	        healthPoints: 180,
 	        attackPower: 15,
 	        counterAttackPower: 25,
